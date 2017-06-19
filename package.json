@@ -1,0 +1,31 @@
+{
+  "name": "helperclass",
+  "version": "1.0.10",
+  "description": "A simpler class manager of your html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoseco/helperclass.git"
+  },
+  "keywords": [
+    "classie",
+    "class",
+    "class toogle",
+    "class add",
+    "class remove",
+    "js class",
+    "class html",
+    "toogle class",
+    "add class",
+    "remove class"
+  ],
+  "author": "bruno secco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoseco/helperclass/issues"
+  },
+  "homepage": "https://github.com/brunoseco/helperclass#readme"
+}
